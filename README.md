@@ -7,7 +7,7 @@ A small dashboard for the G12++ Prep Programme. It combines the Prep App export 
 - which devices learners use
 - what was fixed in the data, and how
 
-**Live tool:** [add your Vercel link here]
+**Live tool:** https://g12-prep-tracker.vercel.app/
 
 ## How it's built
 
